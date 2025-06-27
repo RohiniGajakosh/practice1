@@ -1,0 +1,144 @@
+[33mcommit f2bc1550f84fbf97d879eb9f695e4f7903e3dc4d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Thu Jun 26 10:59:30 2025 +0530
+
+    deleting all files and creating a new merge for better outlook
+
+[33mcommit 139e402e28212cf7582a043979d445d7a3fb4431[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Mon Jun 23 09:39:07 2025 +0530
+
+    new brach
+
+[33mcommit 9b64ff939c48f990e9cf07ebc2034b2f8353947e[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Mon Jun 23 09:35:58 2025 +0530
+
+    new brach
+
+[33mcommit a228be443b2fb007d419524bcfb15a82680fae47[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Mon Jun 23 10:58:12 2025 +0530
+
+    removed exclamation as was looking sinister
+
+[33mcommit 8b0a43b913cd736bc4e03e2f0cea2ac0bc4af9b4[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Mon Jun 23 09:52:08 2025 +0530
+
+    added exclamation!
+
+[33mcommit d13006cdb0db11e57cd165ff17802d26451e22e8[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Mon Jun 23 09:33:30 2025 +0530
+
+    added coomt and restructured page
+
+[33mcommit 1ea9a203fefe590195f57c34730a749cddebdb05[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Sun Jun 22 17:02:07 2025 +0530
+
+    first commit
+
+[33mcommit c9b2b6663162a475e9280bf4f0b913e99f9a612d[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 04596fe 5aaad45
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Thu Jun 26 11:39:21 2025 +0530
+
+    Merge pull request #1 from Rajcommit/fodu
+    
+    Adding_New_project
+
+[33mcommit 5aaad45e523bac7a20c1eb6a650639e6915aa6f0[m
+Author: Rajcommit <raj.vbeyond@gmail.com>
+Date:   Thu Jun 26 11:38:11 2025 +0530
+
+    Adding_New_project
+
+[33mcommit 04596feb6ee7be6b7f33d41a19609fc52383c7df[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Tue Jun 24 00:49:43 2025 +0530
+
+    Update keynotes.sh
+
+[33mcommit afce55b5516ee530402d25702304c365acb42a28[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Tue Jun 24 00:19:27 2025 +0530
+
+    Update keynotes.sh
+
+[33mcommit 211350703774143cedb785077f90d158718fadee[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Mon Jun 23 18:53:32 2025 +0530
+
+    Update keynotes.sh
+
+[33mcommit 12e196f5e57cbcf86a6d42ba98a911667236013b[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Mon Jun 23 17:37:51 2025 +0530
+
+    Update keynotes.sh
+
+[33mcommit af7ff345afaf8498e06bfdd9d0c73eb7b5c3765e[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Mon Jun 23 13:40:42 2025 +0530
+
+    Update keynotes.sh
+
+[33mcommit 92660ccdc4be92db0883d29b9d1a42e8df53cd15[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Mon Jun 23 13:38:10 2025 +0530
+
+    Create keynotes.sh
+
+[33mcommit ad7f89b112c64e8a666761fae946f15bf3e27b91[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Mon Jun 23 13:16:20 2025 +0530
+
+    Create yamllint.sh
+    
+    yaml-lint file to give you warning if the helm file holds any error
+
+[33mcommit 9dc9953463f45a1fca4b6baaa6f6421c67862ea5[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Tue Jun 17 17:18:08 2025 +0530
+
+    Create shortcuts.md
+    
+    hold git shorcuts to make life easy
+
+[33mcommit c671842274a953ca557d9ab01051cd57156dc2b1[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Fri Jun 13 14:16:12 2025 +0530
+
+    Create error2.md
+
+[33mcommit 64f1eaf25a3da8612db42c49f2d639f1224b977a[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Fri Jun 13 14:14:37 2025 +0530
+
+    Create error.md
+
+[33mcommit bc5dafff009870bdeecf163b32f56d44827b3260[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Fri Jun 13 14:10:53 2025 +0530
+
+    Update git.sh
+
+[33mcommit d717b01ef614c205d2639b2abe8fe1ef28e9a10c[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Tue Jun 10 17:52:12 2025 +0530
+
+    Update git.sh
+
+[33mcommit 767014bd325596c5e5f2be3a9b3b9f9cfbf56335[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Sat May 3 22:26:54 2025 +0530
+
+    Create git.sh
+
+[33mcommit 0f76480ce9eff8dbda7b7e0e69befebef03cabee[m
+Author: Raj Abhishek <138127028+Rajcommit@users.noreply.github.com>
+Date:   Sat May 3 22:26:37 2025 +0530
+
+    Create README.md
