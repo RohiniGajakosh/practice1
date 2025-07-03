@@ -18,5 +18,6 @@ dist-ssr
 .idea
 .DS_Store
 *.suo
-
-git config --list
+*.ntvs*
+*.njsproj
+*.sln
