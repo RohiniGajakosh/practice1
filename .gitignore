@@ -1,0 +1,22 @@
+#logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-debug.log*
+lerna-debug.log*
+
+node_modules
+/node_modules/
+dist
+dist-ssr
+*.local
+
+#Editor directories and files
+.vscode/*
+!.vscode/extentions.jason
+.idea
+.DS_Store
+*.suo
+
+git config --list
