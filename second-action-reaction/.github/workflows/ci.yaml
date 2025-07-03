@@ -1,0 +1,11 @@
+name: Checkout Example
+on: workflow_dispatch
+jobs:
+  list-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Grab my repo
+        uses: actions/checkout@v4
+      - name: List files
+        run: ls -la
+

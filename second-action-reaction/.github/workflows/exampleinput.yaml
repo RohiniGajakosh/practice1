@@ -1,0 +1,19 @@
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Which environment to deploy to?'
+        required: true
+        default: 'dev'
+      version:
+        description: 'Version tag to deploy'
+        required: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print the inputs
+        run: |
+          echo "Deploying to environment: ${{ github.event.inputs.environment }}"
+          echo "Version: ${{ github.event.inputs.version }}"
