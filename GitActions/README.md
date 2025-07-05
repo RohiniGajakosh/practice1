@@ -1,1 +1,1 @@
-# git coomamd and automations
+# git command and automations
